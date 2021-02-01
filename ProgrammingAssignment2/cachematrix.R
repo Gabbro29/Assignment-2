@@ -1,7 +1,7 @@
-## This functions are meant to make a cache copy of the matrix X
-## 
+## This functions are meant to make a cache copy of the invert matrix of x
 
-## Write a short comment describing this function
+
+## This matrix creates the matrix list that is going to save the invert matrix
 
 makeCacheMatrix <- function(x = matrix()) {
     ma<-NULL ## set to NULL the initializing matrix
